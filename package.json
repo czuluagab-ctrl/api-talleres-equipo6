@@ -1,0 +1,12 @@
+{
+  "name": "api-talleres",
+  "version": "1.0.0",
+  "description": "API de Gesti\u00f3n de Inscripciones a Talleres - Equipo 5",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
